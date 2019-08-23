@@ -1,0 +1,3 @@
+http://orders-metro-provisioning-activate-qlab02-omq-blue.dev.px-npe02b.cf.t-mobile.com/healthcheck/
+http://orders-metro-provisioning-deactivate-qlab02-omq-green.dev.px-npe02b.cf.t-mobile.com/healthcheck/
+http://orders-metro-provisioning-reactivate-qlab02-omq-green.dev.px-npe02b.cf.t-mobile.com/healthcheck/
